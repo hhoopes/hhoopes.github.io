@@ -93,13 +93,14 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    font-weight: bold;
 
     &:visited {
         color: darken($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
+        color: #f94306;
         text-decoration: underline;
     }
 }
@@ -130,9 +131,9 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 0px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #f2f2f2;
 }
 
 code {
