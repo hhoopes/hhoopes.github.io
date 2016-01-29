@@ -96,7 +96,7 @@ a {
     font-weight: bold;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
@@ -141,7 +141,7 @@ code {
     font-size: 15px;
     border: 0px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #f2f2f2;
+    background-color: #E5E5E5;
 }
 
 code {
