@@ -26,3 +26,10 @@ paginate: 4
 
 # Gems
 gems: [jekyll-paginate]
+
+#Plugins
+
+# Only First P Plugin
+only_first_p:
+    show_read_more_link: true
+    read_more_link_text: 'Read more'

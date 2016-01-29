@@ -103,9 +103,17 @@ a {
         color: #f94306;
         text-decoration: underline;
     }
+
+    &.more {
+      color: #f94306;
+      font-size: $small-font-size;
+      float: right;
+    }
+
+    &.next {
+      float: right;
+    }
 }
-
-
 
 /**
  * Blockquotes
