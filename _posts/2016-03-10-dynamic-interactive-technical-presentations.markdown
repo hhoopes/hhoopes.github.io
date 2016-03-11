@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic technical demos, or how I tried to show that not all hackers need wear hoodies"
 date: 2016-03-10 08:24:00
-categories: information security, technical communication
+categories: technical communication
 excerpt_separator: <!--more-->
 ---
 
