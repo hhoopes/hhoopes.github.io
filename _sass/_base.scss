@@ -104,10 +104,10 @@ a {
         text-decoration: underline;
     }
 
-    &.more {
+    &.moreLink {
       color: #f94306;
       font-size: $small-font-size;
-      float: right;
+      padding-bottom: 5px;
     }
 
     &.next {
