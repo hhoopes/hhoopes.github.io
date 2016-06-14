@@ -22,7 +22,7 @@ markdown: kramdown
 
 permalink: pretty
 
-paginate: 8
+paginate: 10
 
 # Gems
 gems: [jekyll-paginate]
